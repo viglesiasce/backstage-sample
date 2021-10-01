@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: artist-lookup
+  annotations:
+    'jenkins.io/job-full-name': artistLookup-build
   description: Artist Lookup
   tags:
     - java
