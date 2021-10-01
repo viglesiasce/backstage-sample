@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: artist-lookup
   annotations:
-    'jenkins.io/job-full-name': artistLookup-build
+    'jenkins.io/job-full-name': viglesiasce-backstage/testing
   description: Artist Lookup
   tags:
     - java
